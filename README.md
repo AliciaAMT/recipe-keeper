@@ -1,3 +1,24 @@
+# Recipe Keeper 
+
+Recipe Keeper is a web application that allows users to store and organize recipes. Users can create an account, add recipes, and view recipes that other users have added.
+
+## Installation
+
+`npm ci`
+
+## Usage
+
+This is a course project for React and Firebase tutorial by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
+
+Udemy Course: [React & Firebase App Tutorial](https://www.udemy.com/course/react-firebase-app-tutorial/)
+
+- See NOTES.md for class notes.
+- See TODO.md for future improvements.
+- See LICENSE for license information.
+- See PRIVACY.md for privacy information.
+
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
